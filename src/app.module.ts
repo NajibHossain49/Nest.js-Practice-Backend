@@ -13,7 +13,7 @@ import { RoleModule } from './role/role.module';
       host: 'localhost',
       port: 5432,
       username: 'postgres',
-      password: 'root',
+      password: 'Admin',
       database: 'test',
       autoLoadEntities: true,
       synchronize: true,
